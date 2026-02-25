@@ -1,7 +1,1 @@
-android {
-    compileSdk 33
-}
-
-dependencies {
-    // لا توجد تبعيات إضافية
-}
+android { compileSdk 33 }
